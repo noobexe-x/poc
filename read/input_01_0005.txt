@@ -1,0 +1,4 @@
+StatusCode=1
+PreviousBalance=50000
+Amount=10000
+Date=2025-07-03T23:15:00
